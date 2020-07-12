@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/prtng/myeventfinder_react/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/prtng/myeventfinder_react/static/js/main.f3d90786.chunk.js",
-    "main.js.map": "/prtng/myeventfinder_react/static/js/main.f3d90786.chunk.js.map",
-    "runtime-main.js": "/prtng/myeventfinder_react/static/js/runtime-main.4a1b957e.js",
-    "runtime-main.js.map": "/prtng/myeventfinder_react/static/js/runtime-main.4a1b957e.js.map",
-    "static/css/2.f8236e86.chunk.css": "/prtng/myeventfinder_react/static/css/2.f8236e86.chunk.css",
-    "static/js/2.47ef4817.chunk.js": "/prtng/myeventfinder_react/static/js/2.47ef4817.chunk.js",
-    "static/js/2.47ef4817.chunk.js.map": "/prtng/myeventfinder_react/static/js/2.47ef4817.chunk.js.map",
-    "index.html": "/prtng/myeventfinder_react/index.html",
-    "precache-manifest.8b52ba7e6a4519298c36e9038ace36f4.js": "/prtng/myeventfinder_react/precache-manifest.8b52ba7e6a4519298c36e9038ace36f4.js",
-    "service-worker.js": "/prtng/myeventfinder_react/service-worker.js",
-    "static/css/2.f8236e86.chunk.css.map": "/prtng/myeventfinder_react/static/css/2.f8236e86.chunk.css.map",
-    "static/css/main.d498bfb3.chunk.css.map": "/prtng/myeventfinder_react/static/css/main.d498bfb3.chunk.css.map",
-    "static/js/2.47ef4817.chunk.js.LICENSE.txt": "/prtng/myeventfinder_react/static/js/2.47ef4817.chunk.js.LICENSE.txt"
+    "main.css": "/myeventfinder_react/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/myeventfinder_react/static/js/main.a1b5b21a.chunk.js",
+    "main.js.map": "/myeventfinder_react/static/js/main.a1b5b21a.chunk.js.map",
+    "runtime-main.js": "/myeventfinder_react/static/js/runtime-main.f498a88a.js",
+    "runtime-main.js.map": "/myeventfinder_react/static/js/runtime-main.f498a88a.js.map",
+    "static/css/2.f8236e86.chunk.css": "/myeventfinder_react/static/css/2.f8236e86.chunk.css",
+    "static/js/2.47ef4817.chunk.js": "/myeventfinder_react/static/js/2.47ef4817.chunk.js",
+    "static/js/2.47ef4817.chunk.js.map": "/myeventfinder_react/static/js/2.47ef4817.chunk.js.map",
+    "index.html": "/myeventfinder_react/index.html",
+    "precache-manifest.b94c451a8c4a7cf072a52edf2f81bb7a.js": "/myeventfinder_react/precache-manifest.b94c451a8c4a7cf072a52edf2f81bb7a.js",
+    "service-worker.js": "/myeventfinder_react/service-worker.js",
+    "static/css/2.f8236e86.chunk.css.map": "/myeventfinder_react/static/css/2.f8236e86.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/myeventfinder_react/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.47ef4817.chunk.js.LICENSE.txt": "/myeventfinder_react/static/js/2.47ef4817.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a1b957e.js",
+    "static/js/runtime-main.f498a88a.js",
     "static/css/2.f8236e86.chunk.css",
     "static/js/2.47ef4817.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.f3d90786.chunk.js"
+    "static/js/main.a1b5b21a.chunk.js"
   ]
 }
