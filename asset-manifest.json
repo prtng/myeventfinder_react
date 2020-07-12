@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/myeventfinder_react/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/myeventfinder_react/static/js/main.a1b5b21a.chunk.js",
-    "main.js.map": "/myeventfinder_react/static/js/main.a1b5b21a.chunk.js.map",
+    "main.js": "/myeventfinder_react/static/js/main.660b2dd4.chunk.js",
+    "main.js.map": "/myeventfinder_react/static/js/main.660b2dd4.chunk.js.map",
     "runtime-main.js": "/myeventfinder_react/static/js/runtime-main.f498a88a.js",
     "runtime-main.js.map": "/myeventfinder_react/static/js/runtime-main.f498a88a.js.map",
     "static/css/2.f8236e86.chunk.css": "/myeventfinder_react/static/css/2.f8236e86.chunk.css",
     "static/js/2.47ef4817.chunk.js": "/myeventfinder_react/static/js/2.47ef4817.chunk.js",
     "static/js/2.47ef4817.chunk.js.map": "/myeventfinder_react/static/js/2.47ef4817.chunk.js.map",
     "index.html": "/myeventfinder_react/index.html",
-    "precache-manifest.b94c451a8c4a7cf072a52edf2f81bb7a.js": "/myeventfinder_react/precache-manifest.b94c451a8c4a7cf072a52edf2f81bb7a.js",
+    "precache-manifest.031ed5f17afccc6643ba50c5df969313.js": "/myeventfinder_react/precache-manifest.031ed5f17afccc6643ba50c5df969313.js",
     "service-worker.js": "/myeventfinder_react/service-worker.js",
     "static/css/2.f8236e86.chunk.css.map": "/myeventfinder_react/static/css/2.f8236e86.chunk.css.map",
     "static/css/main.d498bfb3.chunk.css.map": "/myeventfinder_react/static/css/main.d498bfb3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f8236e86.chunk.css",
     "static/js/2.47ef4817.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.a1b5b21a.chunk.js"
+    "static/js/main.660b2dd4.chunk.js"
   ]
 }
