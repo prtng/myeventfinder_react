@@ -60,6 +60,10 @@ class Event extends Component {
   }
 }
 
+Event.defaultProps = {
+  date: new Date(),
+};
+
 Event.propTypes = {
   event: PropTypes.object.isRequired,
   deleteEvent: PropTypes.func.isRequired,
